@@ -1,4 +1,4 @@
-bootstraped-resume
+bootstrapped-resume
 ==================
 A simple resume using bootstrap.
 
